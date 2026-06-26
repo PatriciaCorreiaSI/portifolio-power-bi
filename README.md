@@ -23,13 +23,14 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 
 ## 🚀 Meus Projetos em Destaque
 
-### 1. Dashboard de [Nome do Projeto 1 - Ex: Vendas Corporativas]
-* **Objetivo:** [Ex: Analisar o faturamento mensal e identificar gargalos logísticos].
+### 1. Dashboard de Vendas Corporativas
+* **Objetivo:** Analisar o faturamento mensal e identificar gargalos logísticos.
 * **Tecnologias:** Power BI, DAX, Power Query, Excel.
 * **Principais Funcionalidades:** Múltiplos filtros temporais, cálculo de margem de lucro em tempo real e projeções de metas.
 * **Visualização rápida:**
   
-  ![Print ou GIF do Dashboard 1](caminho-para-sua-imagem1.png)
+  ![Dashboard 1](https://github.com/user-attachments/assets/)
+ 
 
 ---
 
