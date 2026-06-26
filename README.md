@@ -2,6 +2,7 @@
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/EXCEL-1A522D?style=for-the-badge&logo=excel&logoColor=green" />
+  <img src="https://img.shields.io/badge/google_sheets-00A848?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
 
