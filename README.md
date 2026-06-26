@@ -9,7 +9,7 @@
 
 Olá! Me chamo **Patricia Correia**, sou estudante de Sistemas de Informação e atuo como Analista Financeira e Dados no desenvolvimento de soluções de Business Intelligence (BI). 
 
-Este repositório reúne meus principais projetos práticos e serve como vitrine para os meus serviços de **freelancer e renda extra**. Se você precisa transformar dados em decisões inteligentes para o seu negócio, está no lugar certo!
+Este repositório reúne alguns dos meus projetos práticos e serve como vitrine para os meus serviços de **freelancer e renda extra**. Se você precisa transformar dados em decisões inteligentes para o seu negócio, está no lugar certo!
 
 ---
 
