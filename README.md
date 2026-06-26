@@ -1,9 +1,12 @@
-# <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> Portfólio Power BI & Consultoria de Dados
+# 📊 Portfólio Power BI & Consultoria de Dados
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/EXCEL-1A522D?style=for-the-badge&logo=excel&logoColor=green" />
+</p>
 
 
 
-
-Olá! Me chamo **[Seu Nome]**, sou estudante de Sistemas de Informação e atuo como Analista Financeira e Dados no desenvolvimento de soluções de Business Intelligence (BI). 
+Olá! Me chamo **Patricia Correia**, sou estudante de Sistemas de Informação e atuo como Analista Financeira e Dados no desenvolvimento de soluções de Business Intelligence (BI). 
 
 Este repositório reúne meus principais projetos práticos e serve como vitrine para os meus serviços de **freelancer e renda extra**. Se você precisa transformar dados em decisões inteligentes para o seu negócio, está no lugar certo!
 
@@ -48,7 +51,7 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 
 ---
 
-## 📩 Vamos fechar negócio? (Contato)
+## 📩 Vamos fechar negócio?
 Se você gostou do meu trabalho e quer um orçamento gratuito para o seu negócio, fale comigo agora:
 
 <p>
