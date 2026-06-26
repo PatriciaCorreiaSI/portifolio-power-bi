@@ -26,29 +26,27 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 ### 1. Dashboard de Vendas Corporativas
 * **Objetivo:** Analisar o faturamento mensal e identificar gargalos logísticos.
 * **Tecnologias:** Power BI, DAX, Power Query, Excel.
-* **Principais Funcionalidades:** Múltiplos filtros temporais, cálculo de margem de lucro em tempo real e projeções de metas.
+* **Principais Funcionalidades:** Múltiplos Filtros Temporais, Cálculo de Faturamento por Produto e por Vendedor, Evolução das Vendas.
 * **Visualização rápida:**
-  
-  ![Dashboard 1](https://github.com/user-attachments/assets/)
- 
+
+https://github.com/user-attachments/assets/d97191b3-2ce7-4d2f-ae45-a06552ce2a93
 
 ---
 
-### 2. Dashboard de [Nome do Projeto 2 - Ex: Controle Financeiro Pessoal/Empresarial]
-* **Objetivo:** [Ex: Centralizar despesas e receitas para controle de fluxo de caixa].
+### 2. Dashboard de Controle Financeiro Empresarial
+* **Objetivo:** Centralizar despesas e receitas para controle de fluxo de caixa.
 * **Tecnologias:** Power BI, SQL Server, DAX.
-* **Principais Funcionalidades:** Indicadores de inadimplência (DRE adaptada) e análise de cenários.
+* **Principais Funcionalidades:** Indicadores e KPIs Estratégicos, Análise de Cenários, Faturamento x Custos e Ticket Médio.
 * **Visualização rápida:**
-  
-  ![Print ou GIF do Dashboard 2](caminho-para-sua-imagem2.png)
 
+https://github.com/user-attachments/assets/c0934578-45db-42d0-b09b-d0f4ce1a1614
+  
 ---
 
 ## 🛠️ Habilidades Técnicas
 * **BI & Visualização:** Power BI, DAX avançado, Power Query (M).
-* **Bancos de Dados:** SQL Server, MySQL, PostgreSQL.
-* **Linguagens de Suporte:** Python (Pandas/NumPy), Engenharia de Prompts.
-* **Conhecimento Acadêmico:** Modelagem de processos, Engenharia de Software (Sistemas de Informação).
+* **Bancos de Dados e Planilhas de Controle:** Excel, Google Sheets, SQL.
+* **Conhecimento Acadêmico:** Análise Financeira, Modelagem de processos, Engenharia de Software (Sistemas de Informação).
 
 ---
 
