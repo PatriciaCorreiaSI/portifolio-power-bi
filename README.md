@@ -18,7 +18,7 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 * **Criação de Dashboards:** Relatórios visuais, interativos e automatizados.
 * **Modelagem de Dados:** Tratamento e estruturação de bases de dados (ETL).
 * **Integração de Fontes:** Conexão com Excel, bancos de SQL, Web Scraping e APIs.
-* **Otimização de Relatórios:** Melhoria de performance de dashboards antigos.
+* **Otimização de Relatórios:** Melhoria de performance de planilhas e dashboards antigos.
 
 ---
 
