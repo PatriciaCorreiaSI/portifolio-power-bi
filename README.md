@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/d97191b3-2ce7-4d2f-ae45-a06552ce2a93
 ### 2. Dashboard de Controle Financeiro Empresarial
 * **Objetivo:** Centralizar despesas e receitas para controle de fluxo de caixa.
 * **Tecnologias:** Power BI, SQL Server, DAX.
-* **Principais Funcionalidades:** Indicadores e KPIs Estratégicos, Análise de Cenários, Faturamento x Custos e Ticket Médio.
+* **Principais Funcionalidades:** Indicadores Estratégicos, Análise de Cenários, Faturamento x Custos e Ticket Médio.
 * **Visualização rápida:**
 
 https://github.com/user-attachments/assets/c0934578-45db-42d0-b09b-d0f4ce1a1614
