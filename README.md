@@ -1,3 +1,4 @@
+
 # 📊 Portfólio Power BI & Consultoria de Dados
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -24,7 +25,18 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 
 ## 🚀 Meus Projetos em Destaque
 
-### 1. Dashboard de Vendas Corporativas
+### 1. Dashboard de Performance Comercial (SaaS & Licenças)
+
+* **Objetivo:** Monitorar a performance de vendas de uma empresa de tecnologia, acompanhando faturamento, ticket médio e o desempenho individual da equipe comercial em tempo real.
+* **Tecnologias:** Power BI, DAX, Power Query (M), Excel.
+* **Principais Funcionalidades:** Painel de KPIs (Receita Total, Produto Mais Vendido, Ticket Médio e Colaboradores), Filtros Dinâmicos por Período, Categoria, Produto e Vendedor, Evolução Mensal de Vendas, Análise por Categoria e Ranking de Vendedores, além de Gráfico de Cascata (Waterfall) para o Status das Vendas (Confirmada, Cancelada e Pendente).
+* **Visualização rápida:**
+
+<img width="900" height="503" alt="demo_dashboard_vendas" src="https://github.com/user-attachments/assets/ace15bd8-de33-4cd6-8225-ec0585ad0048" />
+
+---
+
+### 2. Dashboard de Vendas Corporativas
 * **Objetivo:** Analisar o faturamento mensal e identificar gargalos logísticos.
 * **Tecnologias:** Power BI, DAX, Power Query, Excel.
 * **Principais Funcionalidades:** Múltiplos Filtros Temporais, Cálculo de Faturamento por Produto e por Vendedor, Evolução das Vendas.
@@ -34,7 +46,7 @@ https://github.com/user-attachments/assets/d97191b3-2ce7-4d2f-ae45-a06552ce2a93
 
 ---
 
-### 2. Dashboard de Controle Financeiro Empresarial
+### 3. Dashboard de Controle Financeiro Empresarial
 * **Objetivo:** Centralizar despesas e receitas para controle de fluxo de caixa.
 * **Tecnologias:** Power BI, SQL Server, DAX.
 * **Principais Funcionalidades:** Indicadores Estratégicos, Análise de Cenários, Faturamento x Custos e Ticket Médio.
