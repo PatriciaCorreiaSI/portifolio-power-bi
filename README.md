@@ -32,7 +32,7 @@ Estou disponível para contratação em projetos de curto e médio prazo:
 * **Principais Funcionalidades:** Painel de KPIs (Receita Total, Produto Mais Vendido, Ticket Médio e Colaboradores), Filtros Dinâmicos por Período, Categoria, Produto e Vendedor, Evolução Mensal de Vendas, Análise por Categoria e Ranking de Vendedores, além de Gráfico de Cascata (Waterfall) para o Status das Vendas (Confirmada, Cancelada e Pendente).
 * **Visualização rápida:**
 
-<img width="900" height="503" alt="demo_dashboard_vendas" src="https://github.com/user-attachments/assets/ace15bd8-de33-4cd6-8225-ec0585ad0048" />
+<img width="100%" alt="demo_dashboard_vendas" src="https://github.com/user-attachments/assets/ace15bd8-de33-4cd6-8225-ec0585ad0048" />
 
 ---
 
