@@ -1,7 +1,9 @@
+
 # 📊 Portfólio Power BI & Consultoria de Dados
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/EXCEL-1A522D?style=for-the-badge&logo=excel&logoColor=green" />
   <img src="https://img.shields.io/badge/google_sheets-00A848?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
@@ -38,7 +40,7 @@ Disponível para projetos de curto e médio prazo:
 
 **Visualização rápida:**
 
-<img width="100%" alt="demo_dashboard_vendas" src="https://github.com/user-attachments/assets/ace15bd8-de33-4cd6-8225-ec0585ad0048" />
+![Demonstração do Dashboard Comercial](assets/demo_dashboard_vendas.gif)
 
 ---
 
@@ -47,20 +49,20 @@ Disponível para projetos de curto e médio prazo:
 > Visão consolidada de receitas, custos e fluxo de caixa para decisões financeiras mais rápidas.
 
 * **🎯 Problema:** Despesas e receitas espalhadas em fontes diferentes, sem uma visão única do fluxo de caixa nem comparação clara entre faturamento e custos.
-* **💡 Solução:** Um painel integrado às planilhas de controle que centraliza as movimentações financeiras e traduz os números em indicadores estratégicos.
+* **💡 Solução:** Um painel integrado às planilha de controle que centraliza as movimentações financeiras e traduz os números em indicadores estratégicos.
 * **📈 Resultados & Insights:** Mostra a saúde financeira do negócio de forma consolidada, compara faturamento x custos e permite simular cenários para apoiar decisões de corte de despesas e projeção de resultados.
-* **⚙️ Tecnologias:** Power BI, Power Query (M), Google Sheets, DAX.
-* **✨ Destaques técnicos:** Integração com banco de dados em Google Sheets, indicadores estratégicos, análise de cenários e cálculo de ticket médio.
+* **⚙️ Tecnologias:** Power BI, Google Sheets, DAX.
+* **✨ Destaques técnicos:** Integração com planilhas de controle em Google Sheets, indicadores estratégicos, análise de cenários e cálculo de ticket médio.
 
 **Visualização rápida:**
 
-https://github.com/user-attachments/assets/c0934578-45db-42d0-b09b-d0f4ce1a1614
+![Demonstração do Dashboard Financeiro](assets/demo_dashboard_financeiro.gif)
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-* **BI & Visualização:** Power BI, DAX avançado, Power Query (M).
+* **BI & Visualização:** Power BI, DAX, Power Query (M).
 * **Bancos de Dados & Planilhas:** SQL Server, Excel, Google Sheets.
 * **Modelagem & Análise:** Modelagem de dados (ETL), análise financeira, modelagem de processos.
 * **Base Acadêmica:** Sistemas de Informação.
